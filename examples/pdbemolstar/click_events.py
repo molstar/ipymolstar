@@ -1,5 +1,6 @@
 """
 This example shows to how use click interactions
+View on pycafé: https://app.py.cafe/jhsmit/ipymolstar-click-interaction
 """
 
 from string import Template
