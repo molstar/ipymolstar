@@ -1,5 +1,6 @@
 """
 Example solara app with two-way hover/highlight between ipymolstar and altair
+View on pycafé: https://app.py.cafe/jhsmit/ipymolstar-altair-hover-highlight
 """
 
 # %%
